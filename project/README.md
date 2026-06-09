@@ -2,7 +2,7 @@
 
 A modern and immersive cocktail landing page built with **React**, **Tailwind CSS**, and **GSAP**. Velvet Pour combines elegant typography, smooth animations, and premium visuals to create a luxurious digital cocktail experience.
 
-![Velvet Pour Banner](./assets/velvet_pour_readme_banner_1920x1080.png)
+![Velvet Pour Banner](https://github.com/Dishitha0607/Web-Animation/blob/de8cfd9663a866be2783e8c3fec30869e37bd51d/project/public/images/readmeBanner.png)
 
 ## ✨ Features
 
